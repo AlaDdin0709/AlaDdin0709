@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlaDdin Zalfani
-- 👀 I’m interested in programming 
+- 👋 Hi, I’m AlaDdin Zalfani
+- 👀 I’m interested in Data field. 
 - 🌱 I’m currently learning python,c and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
