@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=AlaDdin0709" alt="AlaDdin0709" />
+
+
 - 👋 Hi, I’m AlaDdin Zalfani
 - 👀 I’m interested in Data field. 
 - 🌱 I’m currently learning python,c and web development
